@@ -1,0 +1,45 @@
+body{
+background-color:lightpink;
+text-align: center;
+}
+h2{
+	color:bisque;
+	background-color:blue;
+	border:6px solid palegreen;
+	text-align: center;
+	border-radius: 7px;
+}
+label{
+	color:blue;
+}
+input[type="text"]{
+
+	color:blue;
+	border:3px solid blue;
+	border-radius:4px;
+	}
+
+input[type="email"]{
+
+	color:blue;
+	border:3px solid blue;
+	border-radius:4px;
+	}
+input[type="password"]{
+
+	color:blue;
+	border:3px solid blue;
+	border-radius:4px;
+	}
+
+   textarea[name="address"]{
+   color:blue;
+	border:3px solid blue;
+	border-radius:4px;
+	}
+input[type="submit"]{
+
+	color:blue;
+	border:3px solid blue;
+	border-radius:4px;
+	}

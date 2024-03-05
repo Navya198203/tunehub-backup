@@ -1,0 +1,14 @@
+body{
+	background-color:lightpink;
+	text-align:center;
+	margin-top:250px;
+}
+.links-container a{
+	border: 3px solid blue;
+	height:150px;
+	width:150px;
+	padding:10px;
+	text-decoration:none;
+	background-color: white;
+	
+}

@@ -1,0 +1,29 @@
+body{
+	background-color: lightpink;
+	text-align: center;
+}
+h2{
+	color:bisque;
+	background-color:blue; 
+	border:5px solid lightgreen;
+	border-radius:7px;
+}
+label{
+	color:blue;
+}
+input[type="email"]{
+
+	color:blue;
+	border:3px solid blue;
+	}
+input[type="password"]{
+
+	color:blue;
+	border:3px solid blue;
+	}
+input[type="submit"]{
+
+	color:blue;
+	border:3px solid blue;
+	
+	}
